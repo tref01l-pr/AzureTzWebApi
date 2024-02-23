@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi.Tests\\tzWebApi.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzBlobAzureFunctions\\tzBlobAzureFunctions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzBlobAzureFunctions\\tzBlobAzureFunctions.csproj",
+        "projectName": "tzBlobAzureFunctions",
+        "projectPath": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzBlobAzureFunctions\\tzBlobAzureFunctions.csproj",
+        "packagesPath": "C:\\Users\\prots\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzBlobAzureFunctions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prots\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.ApplicationInsights.WorkerService": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker": {
+              "target": "Package",
+              "version": "[1.21.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker.ApplicationInsights": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Microsoft.Azure.Functions.Worker.Extensions.Storage.Blobs": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.Azure.Functions.Worker.Sdk": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi.Tests\\tzWebApi.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi.Tests\\tzWebApi.Tests.csproj",
+        "projectName": "tzWebApi.Tests",
+        "projectPath": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi.Tests\\tzWebApi.Tests.csproj",
+        "packagesPath": "C:\\Users\\prots\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prots\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzBlobAzureFunctions\\tzBlobAzureFunctions.csproj": {
+                "projectPath": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzBlobAzureFunctions\\tzBlobAzureFunctions.csproj"
+              },
+              "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi\\tzWebApi.csproj": {
+                "projectPath": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi\\tzWebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi\\tzWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi\\tzWebApi.csproj",
+        "projectName": "tzWebApi",
+        "projectPath": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi\\tzWebApi.csproj",
+        "packagesPath": "C:\\Users\\prots\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prots\\Desktop\\Everything that was at old Windows\\RiderProjects\\tzWepSolution\\tzWebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prots\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.11.0-beta.1, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.20.0-beta.1, )"
+            },
+            "FakeItEasy": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

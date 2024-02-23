@@ -1,0 +1,11 @@
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\tzWepApi.exe
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\appsettings.Development.json
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\appsettings.json
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\tzWepApi.dll
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\tzWepApi.deps.json
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\tzWepApi.runtimeconfig.json
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\tzWepApi.pdb
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\Microsoft.OpenApi.dll
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\prots\AppData\Local\Temp\rider-publish11159900097380856793\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "SendEmail",
+    "scriptFile": "tzBlobAzureFunctions.dll",
+    "entryPoint": "tzBlobAzureFunctions.SendEmail.Run",
+    "language": "dotnet-isolated",
+    "properties": {
+      "IsCodeless": false
+    },
+    "bindings": [
+      {
+        "name": "name",
+        "direction": "In",
+        "type": "blobTrigger",
+        "path": "tz-docx-container/{name}",
+        "connection": "",
+        "properties": {
+          "supportsDeferredBinding": "True"
+        }
+      }
+    ]
+  }
+]
